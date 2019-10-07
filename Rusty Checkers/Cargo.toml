@@ -1,0 +1,8 @@
+[package]
+name = "rustycheckers"
+version = "0.1.0"
+authors = ["mastech"]
+
+[dependencies]
+mut_static = "5.0.0"
+lazy_static = "1.0.2"
