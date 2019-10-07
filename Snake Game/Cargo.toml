@@ -1,0 +1,9 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["mastech"]
+
+[dependencies]
+
+rand = "0.3.18"
+piston_window = "0.74.0"
